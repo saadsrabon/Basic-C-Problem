@@ -4,7 +4,7 @@
 
 int main ()
 {
-  char S[30];
+  char S[10000001];
   scanf("%s", &S);
 
 
